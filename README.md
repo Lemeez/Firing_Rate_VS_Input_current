@@ -1,2 +1,10 @@
-# Firing_Rate_VS_Input_current
-This project explores the fundamental relationship between input current and neuronal firing rate, illustrating how neurons convert electrical input into spike-based output through the classic firing-rate (F–I) curve.
+# Firing Rate vs Input Current
+
+## Overview
+This project explores how neuron firing rate depends on input strength.
+
+## Neuroscience Context
+Many neurons show threshold-linear firing behavior.
+
+## Output
+A firing-rate curve similar to experimental data.
